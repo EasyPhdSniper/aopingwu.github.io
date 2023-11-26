@@ -45,7 +45,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-
+# {
 skills:
   - name: Technical
     items:
@@ -83,7 +83,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
+} #
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
