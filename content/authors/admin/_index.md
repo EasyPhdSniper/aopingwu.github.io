@@ -25,7 +25,7 @@ organizations:
     url: https://www.swjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include emerging movement technologies, queue theory and traffic assignment.
 
 # Interests to show in About widget
 interests:
