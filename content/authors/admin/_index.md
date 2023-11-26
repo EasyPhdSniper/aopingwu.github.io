@@ -3,11 +3,11 @@
 title: WU Aoping (吴澳平)
 
 # Name pronunciation (optional)
-# name_pronunciation: woo ow-ping
+name_pronunciation: woo ow-ping
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aoping
+last_name: Wu
 
 # Status emoji
 status:
