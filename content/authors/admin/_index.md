@@ -40,7 +40,7 @@ education:
       institution: Southwest Jiaotong University
       year: 2021 - present
     - course: BSc in Traffic Engineering
-      institution: Changsha University of Science & Technology
+      institution: Changsha University of Science \& Technology
       year: 2017 - 2021
 
 # Skills
