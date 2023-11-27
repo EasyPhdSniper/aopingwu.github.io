@@ -29,7 +29,7 @@ bio: My research interests include emerging movement technologies, queue theory 
 
 # Interests to show in About widget
 interests:
-  - Emerging Movement Technologies
+  - Emerging Mobility Technologies
   - Queue Theory
   - Traffic Assignment
 
@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Wu Aoping is currently a master's student at the School of Transportation and Logistics, Southwest Jiaotong University. His research interests include emerging mobility technologies, queuing theory, and traffic assignment. He has written (including collaborations) two papers for TRB conference proceedings and has two journal papers currently under submission.
 {style="text-align: justify;"}
