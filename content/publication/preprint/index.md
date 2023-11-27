@@ -28,7 +28,7 @@ featured: false
 
 links:
  - name: Custom Link
-   url: http://example.org
+    url: http://example.org
  url_pdf: https://papers.ssrn.com/sol3/results.cfm
  url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
  url_dataset: '#'
