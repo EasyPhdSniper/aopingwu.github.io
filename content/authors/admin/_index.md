@@ -102,6 +102,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aoping-ryan-wu-821874288/
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.cz/citations?hl=zh-CN&user=xdB4xCMAAAAJ
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
